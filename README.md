@@ -23,7 +23,7 @@ Run this app locally with:
 
 
 ## Demo Portal 
-![Alt Text](portal.gif)
+![Alt Text](portal_spotify.gif)
 
 
 Resources:
