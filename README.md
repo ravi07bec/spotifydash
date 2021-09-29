@@ -1,2 +1,3 @@
-# spotifydash
-Spotify Data Analysis App on Dash. It has Race charts, tensorboard, network graphs and a lot more
+# Spotify Dashboard - Analyticon'21 (Amazon's Annual Analyticon Conference)
+
+Readme is WIP
