@@ -1,8 +1,8 @@
 # Spotify Dashboard - Analyticon'21 (Amazon's Annual Analyticon Conference)
 
 
-This is a webapp using Dash, Tableau,Tensorboard and Flourish for Spotify catalog data analysis.
-This WebApp is created for Analyticon '2021 and won best ML powered Viz award and subsequently inducted in Hall Of Fame.
+This is a webapp using Dash, Tableau,Tensorboard and Flourish for Spotify catalog data analysis.This WebApp is created for Analyticon '2021 and won best ML powered Viz award and subsequently inducted in Hall Of Fame.
+
 This webapp is hosted at https://spotifydashpython.herokuapp.com/
 
 ## Requirements
@@ -23,7 +23,7 @@ Run this app locally with:
 
 
 ## Demo Portal 
-![Alt Text](screenshots/hiring.gif)
+![Alt Text](portal.gif)
 
 
 Resources:
