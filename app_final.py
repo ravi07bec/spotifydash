@@ -196,7 +196,7 @@ def comparison():
 #tab2_content =html.Iframe(src="http://thebridge.aka.corp.amazon.com:9053/", width="99%",height="1000" )
 #tab3_content =html.Iframe(src="http://thebridge.aka.corp.amazon.com:8402/", width="99%",height="1000" )
 
-app.title= 'Analyticon Meets Spotify'
+app.title= 'Spotify Catalog Data'
 
 app.layout = dbc.Container([
   
